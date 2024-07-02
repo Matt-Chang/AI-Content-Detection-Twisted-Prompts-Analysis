@@ -1,5 +1,7 @@
 # LLM---Detect-AI-Generated-Text
 
+Here are the steps we took for this project:
+
 Data Collection:
 Collect a large dataset of both AI-generated text and human-written text. This can include texts from different AI models (e.g., GPT-3, GPT-4) and various sources of human-written content.
 
