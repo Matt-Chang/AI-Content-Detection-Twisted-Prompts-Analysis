@@ -40,3 +40,5 @@ Continuously monitor the model’s performance and update it with new data to ma
 
 # Data Pipeline
 ![ALt text](https://github.com/Matt-Chang/LLM---Detect-AI-Generated-Text/blob/main/Untitled%20diagram-2024-07-09-035228.png)
+
+![ALt text](https://github.com/Matt-Chang/LLM---Detect-AI-Generated-Text/blob/main/Picture1.png)
