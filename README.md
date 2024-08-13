@@ -39,6 +39,6 @@ Monitoring and Updating:
 Continuously monitor the model’s performance and update it with new data to maintain its accuracy over time.
 
 # Data Pipeline
-![ALt text](https://github.com/Matt-Chang/LLM---Detect-AI-Generated-Text/blob/main/Untitled%20diagram-2024-07-09-035228.png)
+![ALt text](https://github.com/Matt-Chang/LLM---Detect-AI-Generated-Text/blob/main/flow%20chart.png)
 
 ![ALt text](https://github.com/Matt-Chang/LLM---Detect-AI-Generated-Text/blob/main/Picture1.png)
